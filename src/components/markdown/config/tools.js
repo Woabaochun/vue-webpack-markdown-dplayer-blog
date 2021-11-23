@@ -1,0 +1,35 @@
+/*
+* 默认头部菜单配置
+* */
+export default {
+    strong: true,
+    italic: true,
+    overline: true,
+    h1: true,
+    h2: true,
+    h3: true,
+    h4: false,
+    h5: false,
+    h6: false,
+    hr: true,
+    quote: true,
+    ul: false,
+    ol: false,
+    code: true,
+    link: true,
+    image: true,
+    video: true,
+    uploadImage:false,
+    table: false,
+    checked: false,
+    notChecked: false,
+    split: true,
+    preview: false,
+    fullscreen: false,
+    theme: false,
+    exportmd: true,
+    importmd: true,
+    save: false,
+    clear: false,
+    undo:true
+}
